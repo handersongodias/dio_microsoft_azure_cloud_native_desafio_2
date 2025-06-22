@@ -47,5 +47,5 @@ Este projeto foi desenvolvido com docker , azure, azure acr, que permite executa
 
 
 ## 📸 Telas da aplicação e configuração do Azure 
-      na pasta arquivos/imagens
+      na pasta arquivos
 
