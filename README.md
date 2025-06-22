@@ -24,8 +24,7 @@ Este projeto foi desenvolvido com docker , azure, azure acr, que permite executa
 ### 1. Crie uma pasta local para o projeto que sera utilizada no visual code
       crie o arquivo dockerfile
       crie mais uma pasta chamada Blog
-      dentro da pasta Blog crie dois arquivos services.yaml e deployment.yaml
-      cria mais uma pasta chamada Html
+      cria mais uma pasta chamada Html dentro da pasta Blog
       dentro da pasta Html crie 3 arquivos create-post.html, index.html, post-detail.html
       
 ### 2. Crie os arquivos conforme etapa 1
